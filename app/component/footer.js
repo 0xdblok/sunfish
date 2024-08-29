@@ -5,11 +5,11 @@ import dextools from "../asset/dextools_logo.png";
 import Image from "next/image";
 export default function Footer() {
   return (
-    <div className="flex justify-center gap-4 mt-[420px] bg-gray-200 py-4">
+    <div className="flex justify-center gap-4 mt-[420px]  bg-gray-200 py-4">
       <div>
         <svg
-          width="16"
-          height="13"
+          width="24"
+          height="24"
           viewBox="0 0 16 13"
           fill="none"
           xmlns="http://www.w3.org/2000/svg">
